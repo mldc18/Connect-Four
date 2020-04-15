@@ -1,0 +1,26 @@
+body {
+    background: black;
+}
+
+table {
+    border-collapse: separate;
+    border: solid gainsboro 5px;
+    -moz-border-radius: 10px;
+}
+
+.container {
+    color: gainsboro;
+    font-family: 'Fredoka One', cursive;
+}
+
+td {
+    border: 8px solid silver;
+    border-radius: 50%;
+    padding: 20px;
+    height: 110;
+    width: 110;
+}
+
+.turnBlue {
+    background: blue;
+}
